@@ -1,0 +1,48 @@
+﻿<Window x:Class="InvestmentManagement.View.VkladWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InvestmentManagement.View"
+        mc:Ignorable="d"
+        Title="VkladWin" Height="450" Width="800">
+
+    <Window.Resources></Window.Resources>
+    <StackPanel VerticalAlignment="Top" Height="419" Margin="0,0,0,0">
+
+        <Grid Margin="0,0,0,13" Height="378">
+
+            <StackPanel VerticalAlignment="Top">
+
+                <Rectangle Height="88" VerticalAlignment="Top">
+                    <Rectangle.Fill>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF224AD1"/>
+                            <GradientStop Color="#FF34268A" Offset="1"/>
+                            <GradientStop Color="#FF33288B" Offset="0.546"/>
+                        </LinearGradientBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <DataGrid x:Name="Vklads" AutoGenerateColumns="False" Grid.Row="0" GridLinesVisibility="None" Grid.Column="1" Opacity="0.7" Height="252">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Дата открытия" Binding="{Binding DateOpen, Mode=OneWay}"  Width="20*" />
+                        <DataGridTextColumn Header="Программа" Binding="{Binding Prog, Mode=OneWay}"  Width="20*" />
+                        <DataGridTextColumn Header="Процент по программе" Binding="{Binding Percent, Mode=OneWay}"  Width="20*" />
+
+                        <DataGridTextColumn Header="Сумма" Binding="{Binding Value, Mode=OneWay}"  Width="20*" />
+
+
+                    </DataGrid.Columns>
+
+                </DataGrid>
+            </StackPanel>
+            <Button Content="  Открыть новый вклад  " HorizontalAlignment="Right" Height="20" Background="#FF263C87"  VerticalAlignment="Bottom" Margin="0,0,20,0"  Foreground="WhiteSmoke" FontSize="11" Width="150" Click="Button_Click_1"/>
+            <Button Content="  Закрыть вклад   " HorizontalAlignment="Right" Height="20" Background="#FF263C87"  VerticalAlignment="Bottom" Margin="0,0,200,0"  Foreground="WhiteSmoke" FontSize="11" Width="150" Click="Button_Click_2"/>
+            <Button Content=" Получить выписку по счету  " HorizontalAlignment="Right" Height="20" Background="#FF263C87"  VerticalAlignment="Bottom" Margin="0,0,380,0"  Foreground="WhiteSmoke" FontSize="11" Width="150" Click="Button_click"/>
+            <Image  Source="C:\Users\Работник\source\repos\InvestmentManagement\InvestmentManagement\View\Resources/Logo2_1.png"    Margin="-236,-69,243,215" />
+
+        </Grid>
+        <TextBlock Text="Система управления банковскими вкладами" HorizontalAlignment="Center" VerticalAlignment="Center"  Foreground="Gray" Cursor="Hand"/>
+
+    </StackPanel>
+</Window>

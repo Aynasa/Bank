@@ -1,0 +1,46 @@
+﻿<Window x:Class="InvestmentManagement.View.Window121"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        xmlns:local="clr-namespace:InvestmentManagement.View"
+        mc:Ignorable="d"
+                xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+
+        Title="Window121" Height="495.479" Width="400.266">
+    <Window.Resources></Window.Resources>
+    <Grid Margin="0,0,2,-31">
+
+        <Rectangle Height="88" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF224AD1"/>
+                    <GradientStop Color="#FF34268A" Offset="1"/>
+                    <GradientStop Color="#FF33288B" Offset="0.546"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Margin="0,90,200,0">
+            <DatePicker x:Name ="m1"  Width="130" HorizontalAlignment="Center"  Margin="0,10" IsManipulationEnabled="True" />
+
+            <TextBlock x:Name ="m8"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Дата открытия вклада" Foreground="Gray"/>
+            <TextBlock x:Name ="m9"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Внесенная сумма" Foreground="Gray"/>
+            <TextBlock x:Name ="m10"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Программа" Foreground="Gray"/>
+            <TextBlock x:Name ="m11"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Процент" Foreground="Gray"/>
+            <TextBlock x:Name ="m12"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+
+
+        </StackPanel>
+        <StackPanel Margin="200,90,0,0">
+            <TextBlock x:Name ="n1" Height="25" Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <TextBlock x:Name ="n8"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <TextBlock x:Name ="n9"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <TextBlock x:Name ="n10"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <TextBlock x:Name ="n11"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <TextBlock x:Name ="n12"  Width="130" HorizontalAlignment="Center"  Margin="0,10" Text="Логин" Foreground="Gray"/>
+            <Button Content="  Получить отчет  "  Background="#FF33288B"   Width="130" HorizontalAlignment="Center"  Margin="0,10"  Foreground="WhiteSmoke" FontSize="13" Click="Button_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
