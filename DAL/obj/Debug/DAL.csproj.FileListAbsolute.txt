@@ -1,0 +1,65 @@
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\DAL.dll.config
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\DAL.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\DAL.pdb
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\EntityFramework.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\obj\Debug\DAL.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Александр\Desktop\444\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\444\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\444\DAL\obj\Debug\DAL.dll
+C:\Users\Александр\Desktop\444\DAL\obj\Debug\DAL.pdb
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\DAL.dll.config
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\DAL.dll
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\DAL.pdb
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Александр\Desktop\F\444\DAL\bin\Debug\Ninject.dll
+C:\Users\Александр\Desktop\F\444\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\F\444\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\F\444\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Александр\Desktop\F\444\DAL\obj\Debug\DAL.dll
+C:\Users\Александр\Desktop\F\444\DAL\obj\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\bin\Debug\DAL.dll.config
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\bin\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\bin\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\obj\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\obj\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\DAL.dll.config
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\obj\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\obj\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\Ninject.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\Ninject.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\DAL\bin\Debug\Ninject.xml
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\DAL.dll.config
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\DAL.dll
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\Ninject.dll
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\Ninject.pdb
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\bin\Debug\Ninject.xml
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\obj\Debug\DAL.dll
+C:\Users\Работник\source\repos\InvestmentManagement\DAL\obj\Debug\DAL.pdb
