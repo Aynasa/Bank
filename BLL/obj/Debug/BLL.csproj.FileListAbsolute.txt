@@ -1,0 +1,90 @@
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\BLL.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\BLL.pdb
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\EntityFramework.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\DAL.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\DAL.pdb
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\bin\Debug\DAL.dll.config
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\obj\Debug\BLL.dll
+D:\temp\ПО\Архитектура ПО\3LayerWinApp\BLL\obj\Debug\BLL.pdb
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\BLL.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\BLL.pdb
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\EntityFramework.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\DAL.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\DAL.pdb
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\bin\Debug\DAL.dll.config
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\obj\Debug\BLL.dll
+D:\temp\ПО\Лабы\Example3LayerApp\BLL\obj\Debug\BLL.pdb
+C:\Users\Александр\Desktop\444\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\444\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\444\BLL\obj\Debug\BLL.dll
+C:\Users\Александр\Desktop\444\BLL\obj\Debug\BLL.pdb
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\BLL.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\BLL.pdb
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\Ninject.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\DAL.dll
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\DAL.pdb
+C:\Users\Александр\Desktop\F\444\BLL\bin\Debug\DAL.dll.config
+C:\Users\Александр\Desktop\F\444\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\F\444\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\F\444\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Александр\Desktop\F\444\BLL\obj\Debug\BLL.dll
+C:\Users\Александр\Desktop\F\444\BLL\obj\Debug\BLL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\BLL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\BLL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\Ninject.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\DAL.dll.config
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\Ninject.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\bin\Debug\Ninject.xml
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\obj\Debug\BLL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5+8\BLL\obj\Debug\BLL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\BLL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\BLL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\DAL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\Ninject.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\DAL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\DAL.dll.config
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\Ninject.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\Ninject.xml
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\obj\Debug\BLL.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\obj\Debug\BLL.pdb
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Работник\Desktop\5 ЛАБ РАБОЧАЯ\5\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\BLL.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\DAL.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\Ninject.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\DAL.dll.config
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\Ninject.pdb
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\bin\Debug\Ninject.xml
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\obj\Debug\BLL.dll
+C:\Users\Работник\source\repos\InvestmentManagement\BLL\obj\Debug\BLL.pdb
